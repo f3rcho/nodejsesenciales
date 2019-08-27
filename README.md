@@ -27,3 +27,7 @@ Con esto hecho, su lección estará lista para ser desarrollada junto al program
 ## Licencia
 
 * **Licencia MIT**
+
+## Mi comentario para iniciar el curso
+
+Primer commit para iniciar el curso de nodeJsEsenciales
