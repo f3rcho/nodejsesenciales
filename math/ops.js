@@ -13,15 +13,21 @@ function sum(a, b){
  * @param {number} b 
  */
 function diff(a, b){
-    return a + b;
+    return a - b;
 }
 
+/**
+ * Funcion para un producto de dos numeros
+ * @param {Number} a 
+ * @param {Number} b 
+ */
+
 function prod(a, b){
-    return a + b;
+    return a * b;
 }
 
 function div(a, b){
-    return a + b;
+    return a / b;
 }
 
 module.exports = {
