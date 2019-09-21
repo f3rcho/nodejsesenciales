@@ -11,7 +11,7 @@ if (cluster.isMaster) {
 
     require("./route")(app);
 
-    app.listen(3000, ()=>{
+    app.listen(3001, ()=>{
         console.log(`Express con id ${cluster.worker.id} ha iniciado correctamente!`);
     });
 }
